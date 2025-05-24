@@ -1,0 +1,20 @@
+# Build Folders
+/bin/
+/obj/
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+
+# Logs
+*.log
+
+# Secret settings
+appsettings.Development.json
