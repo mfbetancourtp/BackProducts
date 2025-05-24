@@ -3,17 +3,10 @@
 
 Este repositorio contiene dos proyectos:
 
-1. **Backend**: Web API en .NET 8 para CRUD de productos, usando EF Core y SQL Server LocalDB.  
-2. **Frontend**: SPA en Angular 18 + Angular Material que consume la API de productos.
-
----
-
-## 📖 Contenidos
-
-- [Backend](#-backend-net-8-web-api)  
-- [Frontend](#-frontend-angular-18--angular-material)  
-- [Build y despliegue](#-build-y-despliegue)  
-- [Notas](#-notas)  
+1. **Backend**: Web API en .NET 8 para CRUD de productos, usando EF Core y SQL Server LocalDB.
+   
+3. **Frontend**: SPA en Angular 18 + Angular Material que consume la API de productos.
+   Url: https://github.com/mfbetancourtp/FrontProducts
 
 ---
 
